@@ -6,7 +6,7 @@ eureka:
     serviceUrl:
       defaultZone: http://localhost:8761/eureka/
 boco:
-  test: '{cipher}123456'
+  test: '{cipher}555663a538a3397de3858f98d83363f9597bb3476866c45da36e0ca393feeed2'
 foo: baz
 
 ---
